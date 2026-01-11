@@ -6,7 +6,7 @@ export const FooterCopyright = () => {
       <div className="flex items-center gap-1 flex-wrap justify-center">
         <span className="opacity-60">&copy; {currentYear}</span>
         <span className="font-semibold tracking-tight text-gray-900">
-          lihatdulu.com
+          asri-property.com
         </span>
         <span className="text-sm"> | Hak Cipta Dilindungi</span>
       </div>
