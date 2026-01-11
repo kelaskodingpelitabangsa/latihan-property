@@ -24,7 +24,7 @@ export const RegionPage: React.FC = () => {
   }
 
   return (
-    <div className="max-w-5xl mx-auto p-5 pt-24 min-h-[80vh]">
+    <div className="max-w-7xl mx-auto p-5 pt-24 min-h-[80vh]">
       <Link
         to="/"
         className="inline-flex items-center text-blue-600 font-semibold mb-8 group"
